@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-events-index-mdx",
+    "path": "/events/",
+    "result": {"pageContext":{"frontmatter":{"title":"Upcoming Events","description":"Upcoming events of relevance to API Connect SaaS users"},"relativePagePath":"/events/index.mdx","titleType":"page","MdxNode":{"id":"2d31869c-07cc-5f88-b3a1-02701d588f7c","children":[],"parent":"464024c9-50a6-582f-904f-016f5acf1e00","internal":{"content":"---\ntitle: Upcoming Events\ndescription: Upcoming events of relevance to API Connect SaaS users\n---\n\n\n## Upcoming Events\n","type":"Mdx","contentDigest":"f035019bf97beb2df93c873762b1ade9","owner":"gatsby-plugin-mdx","counter":344},"frontmatter":{"title":"Upcoming Events","description":"Upcoming events of relevance to API Connect SaaS users"},"exports":{},"rawBody":"---\ntitle: Upcoming Events\ndescription: Upcoming events of relevance to API Connect SaaS users\n---\n\n\n## Upcoming Events\n","fileAbsolutePath":"/Users/rickymoorhouse/git/piranha/welcome-pack/src/pages/events/index.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
