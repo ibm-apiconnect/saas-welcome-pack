@@ -1,1 +1,1 @@
-{"data":{"allNavItemsYaml":{"edges":[{"node":{"title":"Getting started","pages":[{"title":null,"path":"getting-started"}]}},{"node":{"title":"Upcoming Events","pages":[{"title":null,"path":"events"}]}}]},"site":{"pathPrefix":"/saas-welcome-pack"}}}
+{"data":{"allNavItemsYaml":{"edges":[{"node":{"title":"Getting started","pages":[{"title":null,"path":"/saas-welcome-pack/getting-started"}]}},{"node":{"title":"Upcoming Events","pages":[{"title":null,"path":"/saas-welcome-pack/events"}]}}]},"site":{"pathPrefix":"/saas-welcome-pack"}}}
