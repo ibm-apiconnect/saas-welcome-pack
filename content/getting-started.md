@@ -1,7 +1,6 @@
 ---
 title: Welcome to your IBM API Connect Trial
-
----- 
+--- 
 
 
 To help you get the most from your IBM API Connect trial here are a set of resources. Whether you need help getting started or trying out more of our advanced capabilities we’ve got you covered.
@@ -14,8 +13,6 @@ To help you get the most from your IBM API Connect trial here are a set of resou
 - [Automate API Test generation](#automate-api-test-generation)
 - [Create mock API responses using message template policies](#create-mock-api-responses-using-message-template-policies)
 - [Get your questions answered](#get-your-questions-answered)
-
-
 
 
 ## Getting started
