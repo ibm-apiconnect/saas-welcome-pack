@@ -2,6 +2,10 @@
 title: Welcome to your IBM API Connect Trial
 
 ---- 
+
+
+To help you get the most from your IBM API Connect trial here are a set of resources. Whether you need help getting started or trying out more of our advanced capabilities we’ve got you covered.
+
 - [Getting started](#getting-started)
 - [Analyzing your APIs](#analyzing-your-apis)
 - [Socializing your APIs via a customized Developer Portal](#socializing-your-apis-via-a-customized-developer-portal)
@@ -13,7 +17,6 @@ title: Welcome to your IBM API Connect Trial
 
 
 
-To help you get the most from your IBM API Connect trial here are a set of resources. Whether you need help getting started or trying out more of our advanced capabilities we’ve got you covered.
 
 ## Getting started
 When you first log into the trial you have the option of using a guided tour. In a matter of minutes this will walk you through creating and testing a sample API, setting security policies, then how to analyze its usage. Below are the direct links to this content outside of the in-product guided tour.
