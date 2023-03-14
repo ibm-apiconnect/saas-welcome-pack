@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ibm-apiconnect.github.io/saas-welcome-pack/'
 languageCode = 'en-us'
 title = 'API Connect'
 theme = 'carbon-like'
