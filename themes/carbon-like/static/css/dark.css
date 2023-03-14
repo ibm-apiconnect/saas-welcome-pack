@@ -1,0 +1,9 @@
+html body {
+    background-color: #161719;
+    color: #ccc;
+}
+
+body .navbar-default .navbar-nav>li>a {
+  color: #aaa;
+}
+

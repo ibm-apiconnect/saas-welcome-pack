@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'API Connect'
+theme = 'carbon-like'
+[params]
+    org = 'IBM'
+    subtitle = ''
+    sidemenu = 'main'
+    sidenav = 'false'
+[[menu.main]]
+    url = "/getting-started/"
+    name = "Getting Started"
+    weight = 3
+[[menu.main]]
+    url = "/events/"
+    name = "Upcoming Events"
+    weight = 4

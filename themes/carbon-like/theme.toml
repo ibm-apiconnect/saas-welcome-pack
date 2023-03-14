@@ -1,0 +1,11 @@
+name = "Carbon-like theme for Hugo"
+license = "MIT"
+licenselink = "https://github.com/rickymoorhouse/carbon-like/blob/master/LICENSE.md"
+description = "Theme for hugo styled based on Carbon design system"
+tags = ["blog", "carbon", "responsive"]
+features = ["responsive"]
+min_version = "0.24.1"
+
+[author]
+  name = "Ricky Moorhouse"
+  homepage = "https://rickymoorhouse.uk/"
