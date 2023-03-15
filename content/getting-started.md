@@ -5,17 +5,22 @@ title: Welcome to your IBM API Connect Trial
 
 To help you get the most from your IBM API Connect trial here are a set of resources. Whether you need help getting started or trying out more of our advanced capabilities we’ve got you covered.
 
-- [Getting started](#getting-started)
+
+**Getting started**
+- [Sample API guide](#sample-api-guide)
 - [Analyzing your APIs](#analyzing-your-apis)
 - [Socializing your APIs via a customized Developer Portal](#socializing-your-apis-via-a-customized-developer-portal)
-- [Advanced capabilities](#advanced-capabilities)
+
+**Advanced capabilities**
 - [AWS Lambda Integration](#aws-lambda-integration)
 - [Automate API Test generation](#automate-api-test-generation)
 - [Create mock API responses using message template policies](#create-mock-api-responses-using-message-template-policies)
+
+**Contact our team**
 - [Get your questions answered](#get-your-questions-answered)
 
 
-## Getting started
+## Sample API guide
 When you first log into the trial you have the option of using a guided tour. In a matter of minutes this will walk you through creating and testing a sample API, setting security policies, then how to analyze its usage. Below are the direct links to this content outside of the in-product guided tour.
 
 [Watch a video](https://www.youtube.com/watch?v=xQXiiIXY0vU) and follow along with the [step by step tutorial](https://github.com/ibm-apiconnect/sample-orders-api)
