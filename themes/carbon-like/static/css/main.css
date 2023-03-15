@@ -211,6 +211,7 @@ footer .footer-logo {
 @media (min-width: 42rem) {
   div.text-left {
     width: 75%;
+    margin: 2rem 0;
   }
   
   main .header h1 {
