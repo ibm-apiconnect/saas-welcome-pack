@@ -23,7 +23,7 @@ To help you get the most from your IBM API Connect trial here are a set of resou
 
 
 ## {{<icon icon="Api">}} Sample API guide
-When you first log into the trial you have the option of using a guided tour. In a matter of minutes this will walk you through creating and testing a sample API, setting security policies, then how to analyze its usage. Below are the direct links to this content outside of the in-product guided tour.
+To help you get started right away, we provided you with a sample API, in app guided tour,  as well as sep by step documentation to help you get started and create, test, secure and analyze your API in only a few minutes.
 
 [Watch a video](https://www.youtube.com/watch?v=xQXiiIXY0vU) and follow along with the [step by step tutorial](https://github.com/ibm-apiconnect/sample-orders-api)
 
@@ -31,7 +31,7 @@ When you first log into the trial you have the option of using a guided tour. In
 ## {{<icon icon="ChartLineData">}} Analyzing your APIs
 To get a better understanding of the built in analytics including dashboards, filtering and search capabilities take a quick video tour.  
 
-[Tour of the analytics video](https://youtu.be/dZT2Y3zi00I)
+[Watch a video](https://youtu.be/dZT2Y3zi00I)
 
 Alongside the built in analytics there are options to offload data to an external service to perform a more holistic data search, view custom visualizations, and retain the analytics data for longer periods of time.  Our documentation provides examples for doing this with Amazon S3 and Splunk.
 
@@ -71,6 +71,8 @@ We offer live demos from our technical specialists who can show you advanced fea
 [API Connect Community](https://community.ibm.com/community/user/integration/communities/community-home?communitykey=2106cca0-a9f9-45c6-9b28-01a28f4ce947)
 
 [API Connect YouTube Playlist](https://www.youtube.com/playlist?list=PL_4RxtD-BL5vnqTh3YXwLkap_P4oW-MSy)
+
+[Learn more about our purchase, subscription and upgrade](https://www.ibm.com/docs/en/api-connect/saas?topic=overview-purchase-subscription-upgrade-information)
 
 
 
