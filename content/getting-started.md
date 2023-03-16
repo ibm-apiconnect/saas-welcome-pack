@@ -23,7 +23,7 @@ To help you get the most from your IBM API Connect trial here are a set of resou
 
 
 ## {{<icon icon="Api">}} Sample API guide
-To help you get started right away, we provided you with a sample API, in app guided tour,  as well as sep by step documentation to help you get started and create, test, secure and analyze your API in only a few minutes.
+To help you get started right away, we provide you with a sample API, in app guided tour,  as well as step by step documentation to help you create, test, secure and analyze your API in only a few minutes.
 
 [Watch a video](https://www.youtube.com/watch?v=xQXiiIXY0vU) and follow along with the [step by step tutorial](https://github.com/ibm-apiconnect/sample-orders-api)
 
