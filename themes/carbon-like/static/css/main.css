@@ -238,3 +238,44 @@ footer .footer-logo {
     display: none;
   }
 }
+/* Home page */
+
+.profile {max-width: 50%;}
+.fullwidth.flex {
+  display: flex;
+  flex-basis: row;
+}
+
+.cards {
+  display: flex;
+  height: 150px;
+  width: 100%;
+}
+.card {
+  width: 150px;
+  height: 150px;
+  background: white;
+  color: #222;
+  font-weight: 300;
+  font-size: 14pt;  
+  text-decoration: none;
+  margin: 1rem;
+  display: grid;
+  cursor: pointer;
+  background-color: var(--ui-service-cds-layer-01, #ffffff);
+  padding: calc(.75rem - 2px);
+  border: 2px solid var(--ui-service-cds-layer-01, #ffffff);
+  transition: .15s cubic-bezier(.2,0,.38,.9);  
+}
+.card:hover {
+  background-color: #e8e8e8;
+  border-color: #e8e8e8;
+}
+.card:active {
+  background-color: #ffffff;
+  border-color: #0f62fe;
+}
+.card .icon {
+  width: 32px;
+  padding: 0.5rem 1rem 3rem 0.5rem; 
+}

@@ -4,6 +4,7 @@ title = 'API Connect'
 theme = 'carbon-like'
 [params]
     org = 'IBM'
+    profilePic = 'apic-hero-image.svg'
     subtitle = ''
     sidemenu = 'main'
     sidenav = 'false'
