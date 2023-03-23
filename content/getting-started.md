@@ -13,7 +13,7 @@ To help you get the most from your IBM API Connect trial here are a set of resou
 
 **Advanced capabilities**
 - [Advanced capabilities](#-advanced-capabilities)
-- [AWS Lambda Integration](#aws-lambda-integration)
+- [AWS Lambda Integration](#-aws-lambda-integration)
 - [Automate API Test generation](#-automate-api-test-generation)
 - [Create mock API responses using message template policies](#-create-mock-api-responses-using-message-template-policies)
 - [Get your questions answered](#-get-your-questions-answered)
@@ -49,7 +49,7 @@ Once you’ve explored the basics you may be interested in several other feature
 ## {{<icon icon="AWSLambda">}} AWS Lambda Integration
 Route and protect your AWS Lambda Functions via a Gateway Policy that simplifies routing to backend serverless endpoints securely and authenticated. This compliments our existing support for gateway routing to application endpoints hosted on traditional EC2 instances and those running in containers on EKS and ROSA services on AWS.
 
-[Watch a video](https://www.youtube.com/watch?v=NDKfzBSCvVA&t=5s) or [read the documentation](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-lambda)
+[Watch a video](https://www.youtube.com/watch?v=NDKfzBSCvVA&t=5s), [follow a step-by-step guide](https://community.ibm.com/community/user/integration/blogs/ricky-moorhouse1/2023/03/20/lambda-integration?CommunityKey=2106cca0-a9f9-45c6-9b28-01a28f4ce947) or [read the documentation](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-lambda)
 
 ## {{<icon icon="TestTool">}} Automate API Test generation
 Save time and improve API quality using AI enabled smart test generation to rapidly automate the creation of API Tests.
