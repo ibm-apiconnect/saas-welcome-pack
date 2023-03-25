@@ -44,7 +44,7 @@ Our documentation covers everything from understanding initial concepts to guide
 [Watch a video](https://www.youtube.com/watch?v=_qpShpXtz-Q&list=PL_4RxtD-BL5vnqTh3YXwLkap_P4oW-MSy&index=13) or [read the documentation](https://www.ibm.com/docs/en/api-connect/saas?topic=developer-portal-socialize-your-apis) 
 
 ## {{<icon icon="Advanced">}} Advanced capabilities
-Once you’ve explored the basics you may be interested in several other features. We’ve highlighted a few below and can also take you through these and many more by [booking a live demo](https://www.ibm.com/account/reg/us-en/signup?formid=urx-51877).
+Once you’ve explored the basics you may be interested in several other features. We’ve highlighted a few below and can also take you through these and many more by [booking a live demo](https://www.ibm.com/account/reg/us-en/signup?formid=DEMO-apiconnect).
 
 ## {{<icon icon="AWSLambda">}} AWS Lambda Integration
 Route and protect your AWS Lambda Functions via a Gateway Policy that simplifies routing to backend serverless endpoints securely and authenticated. This compliments our existing support for gateway routing to application endpoints hosted on traditional EC2 instances and those running in containers on EKS and ROSA services on AWS.
@@ -64,7 +64,7 @@ Iterate faster without waiting on back end systems when designing APIs by using 
 ## {{<icon icon="Help">}} Get your questions answered
 We offer live demos from our technical specialists who can show you advanced features and answer any questions. You can attend our regular office hours and speak to the experts.  We also have an active community who publish blogs and is another place to ask questions along with our YouTube playlist for further technical demos. 
 
-[Request a live demo](https://www.ibm.com/account/reg/us-en/signup?formid=urx-51877)
+[Request a live demo](https://www.ibm.com/account/reg/us-en/signup?formid=DEMO-apiconnect)
 
 [Sign up for our next office hours](https://ibm.biz/apic-saas-office-hours)
 
