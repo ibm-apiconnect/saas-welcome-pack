@@ -9,6 +9,7 @@ theme = 'carbon-hugo-theme'
     sidemenu = 'main'
     sidenav = false
     customCss = 'welcome-kit.css'
+    instanaKey = '72t6dm9VQ_KDAa7pNyn6dA'
 [[menu.header]]
     url = "/getting-started/"
     name = "Getting Started"
