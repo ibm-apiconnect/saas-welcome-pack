@@ -3,6 +3,15 @@ h2 svg {
   vertical-align: text-bottom;
   margin: 0 5px;
 }
+.e-content svg.icon {
+height: 32px;
+position: relative;
+left: -23px;
+top: 40px;
+}
+h2 {
+margin-top: 0;
+}
 .profile {max-width: 50%;}
 .fullwidth.flex {
   display: flex;
