@@ -53,3 +53,11 @@ margin-top: 0;
   margin-bottom:2rem;
 /*  padding: 0.5rem 1rem 1rem 0.5rem; */
 }
+
+.e-content table td .icon {
+  width: 18px;height: 18px;
+  left: 0;
+  top: 0;
+  }
+table td .checkyes { fill: #24a148}
+table td .checkno { fill: #fa4d56}

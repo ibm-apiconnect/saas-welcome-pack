@@ -11,34 +11,33 @@ Feature comparion between API Connect editions
 
 </PageDescription>
 
-
 | Feature \ Edition                  | Software | Reserved Instance  | AWS SaaS | AWS SaaS - Advanced |
-|------------------------------------|-----|-----|-----|-----|
+|------------------------------------|:-----:|:-----:|:-----:|:-----:|
 | Tenancy - API Management             |  Single tenant |  Single tenant  |  Multi-tenant  |  Multi-tenant  |
 | Tenancy - API Gateway                |  Single tenant |  Single tenant  |  Multi-tenant  |  Single-tenant  |
-| DataPower - API Gateway            |  Y  |  Y  |  Y  |  Y  |
-| DataPower - v5 compatibility       |  Y  |  Y  |  N  |  N  |
-| Remote Gateway Connectivity        |  Y  |  Y  |  N  |  N  |
-| Access to DataPower console        |  Y  |  N  |  N  |  N  |
-| Access to DataPower logs           |  Y  |  * w/ Platform Logs   |  N  |  N  |
-| Manage DataPower TLS Config        |  Y  |  * w/ Secrets Manager |  N  |  N  |
-| Multi-datacenter deployment for HA |  Y  | __optional HA addon__ (2) |  Y  |  Y  |
-| Access to audit events             |  Y  |  * w/ Activity Tracker  |  N  |  N  |
-| Offload of Analytics data          |  Y  |  Y  |  Y  |  Y  |
-| Managed by API Connect SRE team    |  N  |  Y  |  Y  |  Y  |
+| DataPower - API Gateway            |  {{<checkyes>}}   | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} |
+| DataPower - v5 compatibility       | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkno>}}  |
+| Remote Gateway Connectivity        | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkno>}}  |
+| Access to DataPower console        | {{<checkyes>}} |  {{<checkno>}}   | {{<checkno>}}  | {{<checkno>}}  |
+| Access to DataPower logs           | {{<checkyes>}} |  * w/ Platform Logs   | {{<checkno>}}  | {{<checkno>}}  |
+| Manage DataPower TLS Config        | {{<checkyes>}} |  * w/ Secrets Manager | {{<checkno>}}  | {{<checkno>}}  |
+| Multi-datacenter deployment for HA | {{<checkyes>}} | __optional HA addon__ (2) | {{<checkyes>}} | {{<checkyes>}} |
+| Access to audit events             | {{<checkyes>}} |  * w/ Activity Tracker  | {{<checkno>}}  | {{<checkno>}}  |
+| Offload of Analytics data          | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} |
+| Managed by API Connect SRE team    | {{<checkno>}}  | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} |
 | SLA    |  n/a  |  99.5%<br /> 99.95% (with HA addon)  |  99.9%  |  99.9%  |
 | Updates (Fixes and patches)    |  Per-customer  |  Flexible scheduling |  Planned by IBM |  Planned by IBM  |
 | **Policies**  |     |     |     |     |
-| DataPower User Defined Policies              |  Y  |  N  |  N  |  Y  |
-| Custom policies            |  Y  |  Y  |  N  |  Y  |
-| Global policies            |  Y  |  Y  |  N  |  Y  |
-| [Gateway script](https://www.ibm.com/docs/en/api-connect/10.0.5.x_lts?topic=policies-gatewayscript)             |  Y  |  Y  |  N  |  Y  |
-| [XSLT](https://www.ibm.com/docs/en/api-connect/10.0.5.x_lts?topic=policies-xslt)                       |  Y  |  Y  |  N  |  Y  |
-| [Lambda](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-lambda) |  N  |  N  |  Y  |  Y  |
-| [Message Template](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-message-template) |  N  |  N  |  Y  |  Y  |
+| DataPower User Defined Policies              | {{<checkyes>}} | {{<checkno>}}  | {{<checkno>}}  | {{<checkyes>}} |
+| Custom policies            | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkyes>}} |
+| Global policies            | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkyes>}} |
+| [Gateway script](https://www.ibm.com/docs/en/api-connect/10.0.5.x_lts?topic=policies-gatewayscript)             | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkyes>}} |
+| [XSLT](https://www.ibm.com/docs/en/api-connect/10.0.5.x_lts?topic=policies-xslt)                       | {{<checkyes>}} | {{<checkyes>}} | {{<checkno>}}  | {{<checkyes>}} |
+| [Lambda](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-lambda) | {{<checkno>}}  | {{<checkno>}}  | {{<checkyes>}} | {{<checkyes>}} |
+| [Message Template](https://www.ibm.com/docs/en/api-connect/saas?topic=policies-message-template) | {{<checkno>}}  | {{<checkno>}}  | {{<checkyes>}} | {{<checkyes>}} |
 | **Connectivity**  |     |     |     |     |
-| Connectivity: Cloud Private endpoints  |  Y  |  * w/ Code Engine  |  N  |  In plan  |
-| Connectivity: On Premises  |  Y  |  * w/ Satellite  |  N  |  In plan  |
+| Connectivity: Cloud Private endpoints  | {{<checkyes>}} |  * w/ Code Engine  | {{<checkno>}}  |  In plan  |
+| Connectivity: On Premises  | {{<checkyes>}} |  * w/ Satellite  | {{<checkno>}}  |  In plan  |
 
 
 
