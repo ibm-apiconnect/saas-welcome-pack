@@ -61,3 +61,5 @@ margin-top: 0;
   }
 table td .checkyes { fill: #24a148}
 table td .checkno { fill: #fa4d56}
+h3 {clear: left;}
+.thumbnail {float: left; width: 160px; margin: 0 1rem 1rem 0; }
