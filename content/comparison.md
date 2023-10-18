@@ -1,13 +1,13 @@
 ---
 title: Comparison
-description: Feature comparion between API Connect editions.
+description: Feature comparison between API Connect editions.
 
 ---
 
 
 <PageDescription>
 
-Feature comparion between API Connect editions
+Feature comparison between API Connect editions
 
 </PageDescription>
 
@@ -24,8 +24,8 @@ Feature comparion between API Connect editions
 | Multi-datacenter deployment for HA | {{<checkyes>}} | __optional HA addon__ (2) | {{<checkyes>}} | {{<checkyes>}} |
 | Access to audit events             | {{<checkyes>}} |  * w/ Activity Tracker  | {{<checkno>}}  | {{<checkno>}}  |
 | Offload of Analytics data          | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} |
+| Analytics data retention    |  custom  |  90 days  |  90 days  |  90 days  |
 | Managed by API Connect SRE team    | {{<checkno>}}  | {{<checkyes>}} | {{<checkyes>}} | {{<checkyes>}} |
-| SLA    |  n/a  |  99.5%<br /> 99.95% (with HA addon)  |  99.9%  |  99.9%  |
 | Updates (Fixes and patches)    |  Per-customer  |  Flexible scheduling |  Planned by IBM |  Planned by IBM  |
 | **Policies**  |     |     |     |     |
 | DataPower User Defined Policies              | {{<checkyes>}} | {{<checkno>}}  | {{<checkno>}}  | {{<checkyes>}} |
@@ -50,6 +50,11 @@ Feature comparion between API Connect editions
 | Toronto  |  | {{<checkyes>}}  | {{<checkno>}}  | {{<checkno>}} |
 | US East  |  | {{<checkyes>}} | {{<checkyes>}}  | {{<checkyes>}} |
 | US South  |  | {{<checkyes>}} | {{<checkno>}}  | {{<checkno>}} |
+| **Hosted Platforms** |  | **Reserved Instance** | **AWS SaaS** | **AWS SaaS - Advanced** |
+| Release stream  |   |  LTS (10.0.5.x)  |  CD (10.0.x)  |  CD (10.0.x)  |
+| SLA    |  |  99.5%<br />  (99.95% with HA addon)  |  99.9%  |  99.9%  |
+| Recovery Time Objective (RTO)  |   |  24h  |  24h  |  24h  |
+| Recovery Point Objective (RPO) |   |  24h  |  24h  |  24h  |
 
 
 
