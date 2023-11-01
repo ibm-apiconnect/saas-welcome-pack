@@ -5,13 +5,22 @@ title: Welcome to your IBM API Connect Trial
 
 To help you get the most from your IBM API Connect trial here are a set of resources. Whether you need help getting started or trying out more of our advanced capabilities we’ve got you covered.
 
+If you don't already have one, you can [sign up for a free 30 day trial](https://register.saas.ibm.com/apic/trial/aws?source=welcome-pack). 
 
 **Getting started**
 - [Sample API guide](#sample-api-guide)
 - [Analyzing your APIs](#analyzing-your-apis)
 - [Socializing your APIs via a customized Developer Portal](#socializing-your-apis-via-a-customized-developer-portal)
+- [Advanced capabilities](#advanced-capabilities)
+- [AWS Lambda Integration](#aws-lambda-integration)
+- [Automate API Test generation](#automate-api-test-generation)
+- [Create mock API responses using message template policies](#create-mock-api-responses-using-message-template-policies)
+- [Get your questions answered](#get-your-questions-answered)
 
 **Advanced capabilities**
+- [Sample API guide](#sample-api-guide)
+- [Analyzing your APIs](#analyzing-your-apis)
+- [Socializing your APIs via a customized Developer Portal](#socializing-your-apis-via-a-customized-developer-portal)
 - [Advanced capabilities](#advanced-capabilities)
 - [AWS Lambda Integration](#aws-lambda-integration)
 - [Automate API Test generation](#automate-api-test-generation)
